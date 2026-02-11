@@ -49,11 +49,24 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 ### Technical Projects
 
-#### [Scientific Calculator & Interpreter](I_will_add_the_link_later)
-> *System Developer / Language Designer*
-> A custom-built interpreter and scientific calculator designed to parse and execute complex mathematical expressions.
-> - **Key Contributions:** Implemented a **Recursive Descent Parser** and Lexical Analyzer from scratch in C. Integrated **Scheme** for functional programming capabilities and efficient memory handling.
-> - **Tech Stack:** C, Scheme, Makefile.
+#### [Calculator Scientifique: Toolchain & Dual Implementation](link_will_be_added_later)
+> *System Architect / Language Designer*
+> A complete toolchain developed for the "Calculator Scientifique" language, exploring how different paradigms handle language processing.
+>
+> **1. Symbolic Math Engine (C Implementation):**
+> A high-performance execution engine that interprets mathematical code to perform **symbolic differentiation** and **integration** on polynomials. It processes custom syntax to solve complex calculus problems automatically.
+>
+> **2. Static Semantic Analyzer (Scheme Implementation):**
+> A validation tool that scans source code to detect logical errors **before execution**. It identifies issues like redefined functions, parameter mismatches, and scope violations without running the program.
+>
+> **Tech Stack:** C, Scheme (Lisp), Flex, Bison.
+
+#### [Meta-Circular Scheme Interpreter](link_will_be_added_later)
+> *Language Designer*
+> A fully functional interpreter for the Scheme programming language that executes code interactively.
+> - **Core Functionality:** Provides a **REPL (Read-Eval-Print Loop)** environment where users can define variables, perform arithmetic, and manage local scopes using `let` and `let*` bindings.
+> - **Advanced Logic:** Supports dynamic control flow with custom `case` structures and recursive function calls.
+> - **Tech Stack:** Scheme (Lisp), Functional Programming.
 
 #### [Steam Games Data Analysis](https://github.com/BerkayBilici/Steam-Games-Data-Analysis)
 > *Data Analyst / Developer*
@@ -67,7 +80,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 > - **Key Contributions:** Developed the mobile UI with **Flutter** for seamless iOS/Android performance. Integrated **Firebase** for real-time data synchronization and user authentication.
 > - **Tech Stack:** Flutter (Dart), Firebase Auth & Firestore.
 
-#### [CS308 - Online Store Project](https://github.com/yagmurgcm/CS308--OnlineStoreProject)
+#### [Online Store Project](https://github.com/yagmurgcm/CS308--OnlineStoreProject)
 > *Full Stack Developer (Team Project)*
 > A modern, scalable e-commerce platform architected with a microservices-ready approach.
 > - **Key Contributions:** Built a robust backend API using **NestJS**, managed database schemas, and deployed the infrastructure on **Railway**. Implemented secure authentication and order processing flows.
@@ -79,7 +92,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 > - **My Role:** Designed and implemented the **Server-side architecture**. Handled multi-threaded client connections (threading) and game state management.
 > - **Tech Stack:** Python, Sockets, Threading.
 
-#### [CS306 - E-Commerce Database System](https://github.com/SinanAltintug/E-Commerce-Database-System)
+#### [E-Commerce Database System](https://github.com/SinanAltintug/E-Commerce-Database-System)
 > *Database Developer (Team Project)*
 > A hybrid e-commerce platform integrating **Relational (MySQL)** and **NoSQL (MongoDB)** databases to handle complex business data.
 > - **Key Contributions:** Implemented advanced database logic using **Triggers** (e.g., automatic stock updates) and **Stored Procedures** to enforce business rules directly at the database level. Developed the **PHP** backend to bridge MySQL transactional data with a MongoDB-based support ticket system.
