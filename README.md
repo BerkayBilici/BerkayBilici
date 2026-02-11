@@ -25,11 +25,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -39,7 +35,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 ### Active Projects
 
-#### Operating System Development
+#### [Operating System Development](https://github.com/BerkayBilici/2026-ikt218-osdev)
 > *Kernel Developer / System Architect*
 > Developing a custom kernel from scratch to understand the intricacies of low-level system management.
 > - **Focus:** Kernel architecture, Memory Management, and Interrupt Handling.
