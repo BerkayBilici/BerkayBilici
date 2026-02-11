@@ -8,7 +8,6 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 - **Current Focus:** Developing a custom Operating System (OSDev).
 - **Current Learning:** Kernel Internals & Secure Coding Practices.
-- **Location:** Grimstad, Norway.
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/berkay-bilici/) | **Email:** berkay.bilici@sabanciuniv.edu
 
 ---
