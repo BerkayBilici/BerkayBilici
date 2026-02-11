@@ -9,7 +9,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 - **Current Focus:** Developing a custom Operating System (OSDev).
 - **Current Learning:** Kernel Internals & Secure Coding Practices.
 - **Location:** Grimstad, Norway.
-- **Contact:** [LinkedIn](https://www.linkedin.com/in/berkay-bilici/) | [Email](mailto:berkay.bilici@sabanciuniv.edu)
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/berkay-bilici/) | **Email:** berkay.bilici@sabanciuniv.edu
 
 ---
 
@@ -43,7 +43,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 #### Erasmus Exchange Studies
 > *Student @ University of Agder*
-> Focusing on Scandinavian engineering practices and advanced Computer Science courses.
+> Currently enrolled in advanced CS coursework at the University of Agder, with an emphasis on systems programming.
 
 ---
 
@@ -55,7 +55,12 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 >
 > **1. Symbolic Math Engine (C Implementation):**
 > A high-performance execution engine that interprets mathematical code to perform **symbolic differentiation** and **integration** on polynomials. It processes custom syntax to solve complex calculus problems automatically.
->
+> > Example:
+> ```text
+> f(x)=x^2+2x;
+> calculate D(f,x,1);
+> ```
+> 
 > **2. Static Semantic Analyzer (Scheme Implementation):**
 > A validation tool that scans source code to detect logical errors **before execution**. It identifies issues like redefined functions, parameter mismatches, and scope violations without running the program.
 >
