@@ -105,8 +105,3 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 ---
 
-### Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkayBilici&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayBilici&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
