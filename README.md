@@ -49,7 +49,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 ### Technical Projects
 
-#### [Calculator Scientifique: Toolchain & Dual Implementation](link_will_be_added_later)
+#### [Calculator Scientifique: Toolchain & Dual Implementation](https://github.com/BerkayBilici/Calculator-Scientifique-Dual-Imp)
 > *System Architect / Language Designer*
 > A complete toolchain developed for the "Calculator Scientifique" language, exploring how different paradigms handle language processing.
 >
@@ -61,7 +61,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 >
 > **Tech Stack:** C, Scheme (Lisp), Flex, Bison.
 
-#### [Meta-Circular Scheme Interpreter](link_will_be_added_later)
+#### [Meta-Circular Scheme Interpreter](https://github.com/BerkayBilici/Meta-Circular-Scheme-Interpreter)
 > *Language Designer*
 > A fully functional interpreter for the Scheme programming language that executes code interactively.
 > - **Core Functionality:** Provides a **REPL (Read-Eval-Print Loop)** environment where users can define variables, perform arithmetic, and manage local scopes using `let` and `let*` bindings.
