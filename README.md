@@ -102,6 +102,11 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 > - **Key Contributions:** Implemented advanced database logic using **Triggers** (e.g., automatic stock updates) and **Stored Procedures** to enforce business rules directly at the database level. Developed the **PHP** backend to bridge MySQL transactional data with a MongoDB-based support ticket system.
 > - **Tech Stack:** PHP, MySQL, MongoDB, Stored Procedures, Triggers.
 
+#### [FPGA Battleship Game - Advanced Edition](https://github.com/BerkayBilici/FPGA-Battleship-Game)
+> *Hardware Developer (Solo Project)*
+> An advanced, multi-round Battleship game designed for FPGA boards.
+> - **Key Contributions:** Engineered a complex **Finite State Machine (FSM)** in Verilog to handle a "Best of 3" series logic, ship placements, and real-time score tracking. Integrated a top-level hardware module to connect the core logic with physical FPGA components like switches, debounced buttons, and a seven-segment display.
+> - **Tech Stack:** Verilog HDL, FPGA Design, FSM, Digital Logic.
 ---
 ### Analytics
 <p align="left">
