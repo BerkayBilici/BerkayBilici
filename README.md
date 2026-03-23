@@ -34,7 +34,7 @@ My technical focus lies in **Systems Programming**, **C Development**, and **Com
 
 ### Active Projects
 
-#### [Operating System Development](https://github.com/BerkayBilici/2026-ikt218-osdev)
+#### [Operating System Development](https://github.com/yagmurgcm/group31_2026-ikt218-osdev)
 > *Kernel Developer / System Architect*
 > Developing a custom kernel from scratch to understand the intricacies of low-level system management.
 > - **Focus:** Kernel architecture, Memory Management, and Interrupt Handling.
